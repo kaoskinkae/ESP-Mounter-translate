@@ -10,13 +10,22 @@ This guide is intended to show how we can try to translate our application into 
 
 Let's start by right-clicking on the program "Show Package Contents." Go to ESP Mounter Pro/Contents/Resources/Base.Iproj. Enter the selected folder and locate the file in question: "MainMenu.nib." Open it with the hexadecimal program "HexFied."
 
+![Captura de pantalla 2025-04-26 a las 9 31 38](https://github.com/user-attachments/assets/17bd2022-cb76-4d5a-a2e6-33c00dcfd032)
+
+
 Now, we begin converting what's displayed on the screen into readable files that we can convert, in my case, into Spanish.
 
 How to do this? Let's get to it.
 
 We are going to need to create a file and a folder, the folder in my case as it is in Spanish will be "es.lproj" and the file in question will be "MainMenu.strings" we will open this file with Xcode
 
+![Captura de pantalla 2025-04-26 a las 10 53 49](https://github.com/user-attachments/assets/f4d07d29-3f62-4ef3-9267-0f66f644d26c)
+
+
 Let's open the file with the HexFied program and start searching for the content you need based on the English texts that appear in the program in question.
+
+![Captura de pantalla 2025-04-26 a las 10 56 27](https://github.com/user-attachments/assets/7caadd36-2331-42ef-a000-509817b57670)
+
 
 
 snow All Disks (not only ESPs) (MVi-JH-WX7.title) "NSButtonCell"
@@ -31,7 +40,7 @@ We will look for the three sections that are visually present and can be transla
 Object type: In this case, mark the object's English name. ObjectID and name to be translated.
 We will do this since all three are NSButtonCell type
 
-
+![Captura de pantalla 2025-04-26 a las 11 14 27](https://github.com/user-attachments/assets/6bd0df7d-e3f6-46aa-aa80-01fbeca401c1)
 
 
 The entire process or part of it is explained on the Hackintosh Spain YouTube channel, although it is in Spanish, visually it is easy to understand.
