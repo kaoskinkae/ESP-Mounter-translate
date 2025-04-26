@@ -29,7 +29,7 @@ Let's open the file with the HexFied program and start searching for the content
 
 We will look for the three sections that are visually present and can be translated below. We must detail which ones they are. We only need to follow the visual indications we have, indicating first that it is an object to be marked. There are different types of its function "NSButtonCell". We locate the representative value and create a line:
 
-${\color{red}"/* Class = "NSButtonCell"; title = "run at login"; ObjectID = "vFA-sV-1q0"; */ *,}$ 
+${\color{red}"/* Class = "NSButtonCell"; title = "run at login"; ObjectID = "vFA-sV-1q0"; */}$ 
 
 ${\color{red}"vFA-sV-1q0.title" = "Iniciar sesión";}$ 
 
