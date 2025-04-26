@@ -27,11 +27,6 @@ Let's open the file with the HexFied program and start searching for the content
 ![Captura de pantalla 2025-04-26 a las 10 56 27](https://github.com/user-attachments/assets/7caadd36-2331-42ef-a000-509817b57670)
 
 
-
-snow All Disks (not only ESPs) (MVi-JH-WX7.title) "NSButtonCell"
-use force unmount (Try to unmount a volume when is busy by some processes)  (Cef-F2-3GK.title) "NSButtonCell" 
-run at login (vFA-sV-1q0.title) "NSButtonCell" 
-
 We will look for the three sections that are visually present and can be translated below. We must detail which ones they are. We only need to follow the visual indications we have, indicating first that it is an object to be marked. There are different types of its function "NSButtonCell". We locate the representative value and create a line:
 
 /* Class = "NSButtonCell"; title = "run at login"; ObjectID = "vFA-sV-1q0"; */
