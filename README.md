@@ -15,7 +15,7 @@ Let's start by right-clicking on the program "Show Package Contents." Go to ESP 
 
 Now, we begin converting what's displayed on the screen into readable files that we can convert, in my case, into Spanish.
 
-How to do this? Let's get to it.
+## How to do this? Let's get to it.
 
 We are going to need to create a file and a folder, the folder in my case as it is in Spanish will be "es.lproj" and the file in question will be "MainMenu.strings" we will open this file with Xcode
 
