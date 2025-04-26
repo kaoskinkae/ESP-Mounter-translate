@@ -30,10 +30,10 @@ Let's open the file with the HexFied program and start searching for the content
 We will look for the three sections that are visually present and can be translated below. We must detail which ones they are. We only need to follow the visual indications we have, indicating first that it is an object to be marked. There are different types of its function "NSButtonCell". We locate the representative value and create a line:
 
 /* Class = "NSButtonCell"; title = "run at login"; ObjectID = "vFA-sV-1q0"; */
+
 "vFA-sV-1q0.title" = "Iniciar sesión";
 
-Object type: In this case, mark the object's English name. ObjectID and name to be translated.
-We will do this since all three are NSButtonCell type
+
 
 ![Captura de pantalla 2025-04-26 a las 11 14 27](https://github.com/user-attachments/assets/6bd0df7d-e3f6-46aa-aa80-01fbeca401c1)
 
